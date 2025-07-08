@@ -1,0 +1,42 @@
+{
+  "nomor": 103,
+  "nama": " العصر",
+  "namaLatin": "Al-‘Aṣr",
+  "jumlahAyat": 3,
+  "tempatTurun": "Makkiyah",
+  "arti": "Masa",
+  "deskripsi": "Surat Al 'Ashr terdiri atas 3 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Alam Nasyrah. Dinamai <i>Al 'Ashr</i> (masa) diambil dari perkataan <i>Al 'Ashr</i> yang terdapat pada ayat pertama surat ini.",
+  "ayat": [
+    {
+      "nomorAyat": 1,
+      "teksArab": "وَالْعَصْرِۙ",
+      "teksLatin": "wal-‘aṣr(i).",
+      "teksIndonesia": "Demi masa,"
+    },
+    {
+      "nomorAyat": 2,
+      "teksArab": "اِنَّ الْاِنْسَانَ لَفِيْ خُسْرٍۙ",
+      "teksLatin": "innal-insāna lafī khusr(in).",
+      "teksIndonesia": "sungguh, manusia berada dalam kerugian,"
+    },
+    {
+      "nomorAyat": 3,
+      "teksArab": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوْا بِالْحَقِّ ەۙ وَتَوَاصَوْا بِالصَّبْرِ ࣖ",
+      "teksLatin": "illal-lażīna āmanū wa ‘amiluṣ-ṣāliḥāti wa tawāṣau bil-ḥaqq(i), wa tawāṣau biṣ-ṣabr(i).",
+      "teksIndonesia": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran."
+    }
+  ],
+  "suratSelanjutnya": {
+    "nomor": 104,
+    "nama": "الهمزة",
+    "namaLatin": "Al-Humazah",
+    "jumlahAyat": 9
+  },
+  "suratSebelumnya": {
+    "nomor": 102,
+    "nama": "التكاثر",
+    "namaLatin": "At-Takasur",
+    "jumlahAyat": 8
+  },
+  "namaLatinSearch": "Al-'Asr"
+}
