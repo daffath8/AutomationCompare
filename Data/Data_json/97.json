@@ -1,0 +1,54 @@
+{
+  "nomor": 97,
+  "nama": " القدر",
+  "namaLatin": "Al-Qadr",
+  "jumlahAyat": 5,
+  "tempatTurun": "Makkiyah",
+  "arti": "Al-Qadar",
+  "deskripsi": "Surat Al Qadr terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat 'Abasa. Surat ini dinamai <i>Al Qadr</i> (kemuliaan), diambil dari perkataan <i>Al Qadr</i> yang terdapat pada ayat pertama surat ini.",
+  "ayat": [
+    {
+      "nomorAyat": 1,
+      "teksArab": "اِنَّآ اَنْزَلْنٰهُ فِيْ لَيْلَةِ الْقَدْرِ ",
+      "teksLatin": "innā anzalnāhu fī lailatil-qadr(i).",
+      "teksIndonesia": "Sesungguhnya Kami telah menurunkannya (Al-Qur’an) pada Lailatulqadar."
+    },
+    {
+      "nomorAyat": 2,
+      "teksArab": "وَمَآ اَدْرٰىكَ مَا لَيْلَةُ الْقَدْرِۗ",
+      "teksLatin": "wa mā adrāka mā lailatul-qadr(i).",
+      "teksIndonesia": "Tahukah kamu apakah Lailatulqadar itu?"
+    },
+    {
+      "nomorAyat": 3,
+      "teksArab": "لَيْلَةُ الْقَدْرِ ەۙ خَيْرٌ مِّنْ اَلْفِ شَهْرٍۗ",
+      "teksLatin": "lailatul-qadri khairum min alfi syahr(in).",
+      "teksIndonesia": "Lailatulqadar itu lebih baik daripada seribu bulan."
+    },
+    {
+      "nomorAyat": 4,
+      "teksArab": "تَنَزَّلُ الْمَلٰۤىِٕكَةُ وَالرُّوْحُ فِيْهَا بِاِذْنِ رَبِّهِمْۚ مِنْ كُلِّ اَمْرٍۛ",
+      "teksLatin": "tanazzalul-malā'ikatu war rūḥu fīhā bi'iżni rabbihim min kulli amr(in).",
+      "teksIndonesia": "Pada malam itu turun para malaikat dan Rūḥ (Jibril) dengan izin Tuhannya untuk mengatur semua urusan."
+    },
+    {
+      "nomorAyat": 5,
+      "teksArab": "سَلٰمٌ ۛهِيَ حَتّٰى مَطْلَعِ الْفَجْرِ ࣖ",
+      "teksLatin": "salāmun hiya ḥattā maṭla‘il-fajr(i).",
+      "teksIndonesia": "Sejahteralah (malam) itu sampai terbit fajar."
+    }
+  ],
+  "suratSelanjutnya": {
+    "nomor": 98,
+    "nama": "البيّنة",
+    "namaLatin": "Al-Bayyinah",
+    "jumlahAyat": 8
+  },
+  "suratSebelumnya": {
+    "nomor": 96,
+    "nama": "العلق",
+    "namaLatin": "Al-'Alaq",
+    "jumlahAyat": 19
+  },
+  "namaLatinSearch": "Al-Qadr"
+}

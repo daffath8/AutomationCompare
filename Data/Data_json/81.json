@@ -1,0 +1,198 @@
+{
+  "nomor": 81,
+  "nama": "التّكوير",
+  "namaLatin": "At-Takwīr",
+  "jumlahAyat": 29,
+  "tempatTurun": "Makkiyah",
+  "arti": "Penggulungan",
+  "deskripsi": "Surat At Takwir terdiri atas 29 ayat dan termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Masadd. Kata <i>At Takwir</i> (terbelah) yang menjadi nama bagi surat ini adalah dari kata asal (mashdar) dari kata kerja <i>kuwwirat</i> (digulung) yang terdapat pada ayat pertama surat ini.",
+  "ayat": [
+    {
+      "nomorAyat": 1,
+      "teksArab": "اِذَا الشَّمْسُ كُوِّرَتْۖ",
+      "teksLatin": "iżasy-syamsu kuwwirat.",
+      "teksIndonesia": "Apabila matahari digulung,"
+    },
+    {
+      "nomorAyat": 2,
+      "teksArab": "وَاِذَا النُّجُوْمُ انْكَدَرَتْۖ",
+      "teksLatin": "wa iżan-nujūmunkadarat.",
+      "teksIndonesia": "apabila bintang-bintang berjatuhan,"
+    },
+    {
+      "nomorAyat": 3,
+      "teksArab": "وَاِذَا الْجِبَالُ سُيِّرَتْۖ",
+      "teksLatin": "wa iżal-jibālu suyyirat.",
+      "teksIndonesia": "apabila gunung-gunung dihancurkan,"
+    },
+    {
+      "nomorAyat": 4,
+      "teksArab": "وَاِذَا الْعِشَارُ عُطِّلَتْۖ",
+      "teksLatin": "wa iżal-‘isyāru ‘uṭṭilat.",
+      "teksIndonesia": "apabila unta-unta yang bunting ditinggalkan (tidak terurus),"
+    },
+    {
+      "nomorAyat": 5,
+      "teksArab": "وَاِذَا الْوُحُوْشُ حُشِرَتْۖ",
+      "teksLatin": "wa iżal-wuḥūsy ḥusyirat.",
+      "teksIndonesia": "apabila binatang-binatang liar dikumpulkan,"
+    },
+    {
+      "nomorAyat": 6,
+      "teksArab": "وَاِذَا الْبِحَارُ سُجِّرَتْۖ",
+      "teksLatin": "wa iżal-biḥāru sujjirat.",
+      "teksIndonesia": "apabila lautan dipanaskan,"
+    },
+    {
+      "nomorAyat": 7,
+      "teksArab": "وَاِذَا النُّفُوْسُ زُوِّجَتْۖ",
+      "teksLatin": "wa iżan-nufūsu zuwwijat.",
+      "teksIndonesia": "apabila roh-roh dipertemukan (dengan tubuh), "
+    },
+    {
+      "nomorAyat": 8,
+      "teksArab": "وَاِذَا الْمَوْءٗدَةُ سُىِٕلَتْۖ ",
+      "teksLatin": "wa iżal-mau'ūdatu su'ilat.",
+      "teksIndonesia": "apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya, "
+    },
+    {
+      "nomorAyat": 9,
+      "teksArab": "بِاَيِّ ذَنْۢبٍ قُتِلَتْۚ",
+      "teksLatin": "bi'ayyi żambin qutilat.",
+      "teksIndonesia": "“Karena dosa apa dia dibunuh,”"
+    },
+    {
+      "nomorAyat": 10,
+      "teksArab": "وَاِذَا الصُّحُفُ نُشِرَتْۖ",
+      "teksLatin": "wa iżaṣ-ṣuḥufu nusyirat.",
+      "teksIndonesia": "apabila lembaran-lembaran (catatan amal) telah dibuka lebar-lebar, "
+    },
+    {
+      "nomorAyat": 11,
+      "teksArab": "وَاِذَا السَّمَاۤءُ كُشِطَتْۖ",
+      "teksLatin": "wa iżas-samā'u kusyiṭat.",
+      "teksIndonesia": "apabila langit dilenyapkan, "
+    },
+    {
+      "nomorAyat": 12,
+      "teksArab": "وَاِذَا الْجَحِيْمُ سُعِّرَتْۖ",
+      "teksLatin": "wa iżal-jaḥīmu su‘‘irat.",
+      "teksIndonesia": "apabila (neraka) Jahim dinyalakan, "
+    },
+    {
+      "nomorAyat": 13,
+      "teksArab": "وَاِذَا الْجَنَّةُ اُزْلِفَتْۖ",
+      "teksLatin": "wa iżal-jannatu uzlifat.",
+      "teksIndonesia": "dan apabila surga didekatkan, "
+    },
+    {
+      "nomorAyat": 14,
+      "teksArab": "عَلِمَتْ نَفْسٌ مَّآ اَحْضَرَتْۗ",
+      "teksLatin": "‘alimat nafsum mā aḥḍarat.",
+      "teksIndonesia": "setiap jiwa akan mengetahui apa yang telah dikerjakannya."
+    },
+    {
+      "nomorAyat": 15,
+      "teksArab": "فَلَآ اُقْسِمُ بِالْخُنَّسِۙ",
+      "teksLatin": "falā uqsimu bil-khunnas(i).",
+      "teksIndonesia": "Aku bersumpah demi bintang-bintang"
+    },
+    {
+      "nomorAyat": 16,
+      "teksArab": "الْجَوَارِ الْكُنَّسِۙ",
+      "teksLatin": "al-jawāril-kunnas(i).",
+      "teksIndonesia": "yang beredar lagi terbenam, "
+    },
+    {
+      "nomorAyat": 17,
+      "teksArab": "وَالَّيْلِ اِذَا عَسْعَسَۙ",
+      "teksLatin": "wal-laili iżā ‘as‘as(a).",
+      "teksIndonesia": "demi malam apabila telah larut,"
+    },
+    {
+      "nomorAyat": 18,
+      "teksArab": "وَالصُّبْحِ اِذَا تَنَفَّسَۙ",
+      "teksLatin": "waṣ-ṣubḥi iżā tanaffas(a).",
+      "teksIndonesia": "demi subuh apabila (fajar) telah menyingsing, "
+    },
+    {
+      "nomorAyat": 19,
+      "teksArab": "اِنَّهٗ لَقَوْلُ رَسُوْلٍ كَرِيْمٍۙ",
+      "teksLatin": "innahū laqaulu rasūlin karīm(in).",
+      "teksIndonesia": "sesungguhnya (Al-Qur’an) itu benar-benar firman (Allah yang dibawa oleh) utusan yang mulia (Jibril)"
+    },
+    {
+      "nomorAyat": 20,
+      "teksArab": "ذِيْ قُوَّةٍ عِنْدَ ذِى الْعَرْشِ مَكِيْنٍۙ",
+      "teksLatin": "Żī quwwatin ‘inda żil-‘arsyi makīn(in).",
+      "teksIndonesia": "yang memiliki kekuatan dan kedudukan tinggi di sisi (Allah) yang memiliki ʻArasy,"
+    },
+    {
+      "nomorAyat": 21,
+      "teksArab": "مُّطَاعٍ ثَمَّ اَمِيْنٍۗ",
+      "teksLatin": "muṭā‘in ṡamma amīn(in).",
+      "teksIndonesia": "yang di sana (Jibril) ditaati lagi dipercaya."
+    },
+    {
+      "nomorAyat": 22,
+      "teksArab": "وَمَا صَاحِبُكُمْ بِمَجْنُوْنٍۚ",
+      "teksLatin": "wa mā ṣāḥibukum bimajnūn(in).",
+      "teksIndonesia": "Temanmu (Nabi Muhammad) itu bukanlah orang gila. "
+    },
+    {
+      "nomorAyat": 23,
+      "teksArab": "وَلَقَدْ رَاٰهُ بِالْاُفُقِ الْمُبِيْنِۚ",
+      "teksLatin": "wa laqad ra'āhu bil-ufuqil-mubīn(i).",
+      "teksIndonesia": "Sungguh, dia (Nabi Muhammad) benar-benar telah melihatnya (Jibril) di ufuk yang terang. "
+    },
+    {
+      "nomorAyat": 24,
+      "teksArab": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِيْنٍۚ",
+      "teksLatin": "wa mā huwa ‘alal-gaibi biḍanīn(in).",
+      "teksIndonesia": "Dia (Nabi Muhammad) bukanlah seorang yang kikir (enggan) untuk menerangkan yang gaib."
+    },
+    {
+      "nomorAyat": 25,
+      "teksArab": "وَمَا هُوَ بِقَوْلِ شَيْطٰنٍ رَّجِيْمٍۚ",
+      "teksLatin": "wa mā huwa biqauli syaiṭānir rajīm(in).",
+      "teksIndonesia": "(Al-Qur’an) itu bukanlah perkataan setan yang terkutuk."
+    },
+    {
+      "nomorAyat": 26,
+      "teksArab": "فَاَيْنَ تَذْهَبُوْنَۗ",
+      "teksLatin": "fa aina tażhabūn(a).",
+      "teksIndonesia": "Maka, ke manakah kamu akan pergi?"
+    },
+    {
+      "nomorAyat": 27,
+      "teksArab": "اِنْ هُوَ اِلَّا ذِكْرٌ لِّلْعٰلَمِيْنَۙ",
+      "teksLatin": "in huwa illā żikrul lil-‘ālamīn(a).",
+      "teksIndonesia": "(Al-Qur’an) itu tidak lain, kecuali peringatan bagi semesta alam, "
+    },
+    {
+      "nomorAyat": 28,
+      "teksArab": "لِمَنْ شَاۤءَ مِنْكُمْ اَنْ يَّسْتَقِيْمَۗ",
+      "teksLatin": "liman syā'a minkum ay yastaqīm(a).",
+      "teksIndonesia": "(yaitu) bagi siapa di antaramu yang hendak menempuh jalan yang lurus. "
+    },
+    {
+      "nomorAyat": 29,
+      "teksArab": "وَمَا تَشَاۤءُوْنَ اِلَّآ اَنْ يَّشَاۤءَ اللّٰهُ رَبُّ الْعٰلَمِيْنَ ࣖ",
+      "teksLatin": "wa mā tasyā'ūna illā ay yasyā'allāhu rabbul-‘ālamīn(a).",
+      "teksIndonesia": "Kamu tidak dapat berkehendak, kecuali apabila dikehendaki Allah, Tuhan semesta alam."
+    }
+  ],
+  "suratSelanjutnya": {
+    "nomor": 82,
+    "nama": "الانفطار",
+    "namaLatin": "Al-Infitar",
+    "jumlahAyat": 19
+  },
+  "suratSebelumnya": {
+    "nomor": 80,
+    "nama": "عبس",
+    "namaLatin": "'Abasa",
+    "jumlahAyat": 42
+  },
+  "namaLatinSearch": "At-Takwir"
+}

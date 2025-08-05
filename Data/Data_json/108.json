@@ -1,0 +1,42 @@
+{
+  "nomor": 108,
+  "nama": " الكوثر",
+  "namaLatin": "Al-Kauṡar",
+  "jumlahAyat": 3,
+  "tempatTurun": "Makkiyah",
+  "arti": "Nikmat Yang Banyak",
+  "deskripsi": "Surat Al Kautsar terdiri atas 3 ayat, termasuk golongan surat-surat  Makkiyyah diturunkan sesudah surat Al 'Aadiyaat. Dinamai <i>Al Kautsar</i> (nikmat yang banyak) diambil dari perkataan <i>Al Kautsar</i> yang terdapat pada ayat pertama surat ini.<br>Surat ini sebagai penghibur hati Nabi Muhammad s.a.w.",
+  "ayat": [
+    {
+      "nomorAyat": 1,
+      "teksArab": "اِنَّآ اَعْطَيْنٰكَ الْكَوْثَرَۗ",
+      "teksLatin": "innā a‘ṭainākal-kauṡar(a).",
+      "teksIndonesia": "Sesungguhnya Kami telah memberimu (Nabi Muhammad) nikmat yang banyak."
+    },
+    {
+      "nomorAyat": 2,
+      "teksArab": "فَصَلِّ لِرَبِّكَ وَانْحَرْۗ",
+      "teksLatin": "faṣalli lirabbika wanḥar.",
+      "teksIndonesia": "Maka, laksanakanlah salat karena Tuhanmu dan berkurbanlah!"
+    },
+    {
+      "nomorAyat": 3,
+      "teksArab": "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ ࣖ",
+      "teksLatin": "inna syāni'aka huwal-abtar(u).",
+      "teksIndonesia": "Sesungguhnya orang yang membencimu, dialah yang terputus (dari rahmat Allah)."
+    }
+  ],
+  "suratSelanjutnya": {
+    "nomor": 109,
+    "nama": "الكٰفرون",
+    "namaLatin": "Al-Kafirun",
+    "jumlahAyat": 6
+  },
+  "suratSebelumnya": {
+    "nomor": 107,
+    "nama": "الماعون",
+    "namaLatin": "Al-Ma'un",
+    "jumlahAyat": 7
+  },
+  "namaLatinSearch": "Al-Kausar"
+}

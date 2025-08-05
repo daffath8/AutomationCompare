@@ -3,13 +3,13 @@ import pandas as pd
 import os
 import unicodedata
 
-# Paths
-json_path = "/Users/daffafatahillah/Documents/projectTes/Data/data-sura-updated-search.json"
-csv_path = "//Users/daffafatahillah/Documents/projectTes/Data/surahName.csv"
-output_dir = "/Users/daffafatahillah/Documents/projectTes/Result"
+
+json_path = "/Users/daffath/Documents/AutomationCompare/Data/data-sura-updated-search.json"
+csv_path = "/Users/daffath/Documents/AutomationCompare/Data/surahName.csv"
+output_dir = "/Users/daffath/Documents/AutomationCompare/Test"
 output_file = os.path.join(output_dir, "surahName_comparison.xlsx")
 
-# Pastikan folder output ada
+
 os.makedirs(output_dir, exist_ok=True)
 
 # Normalisasi teks
@@ -24,7 +24,7 @@ with open(json_path, "r", encoding="utf-8") as f:
 
 csv_data = pd.read_csv(csv_path)
 
-# Siapkan hasil per baris
+
 results = []
 
 for i, json_row in enumerate(json_data):

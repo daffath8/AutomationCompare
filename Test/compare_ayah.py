@@ -3,9 +3,9 @@ import json
 import pandas as pd
 import unicodedata
 
-# Lokasi file
-json_folder = "/Users/daffafatahillah/Documents/projectTes/Data/json_tadarus_new"
-csv_path = "/Users/daffafatahillah/Documents/projectTes/Data/database.csv"
+
+json_folder = "/Users/daffath/Documents/AutomationCompare/Data/Data_json"
+csv_path = "/Users/daffath/Documents/AutomationCompare/Data/database.csv"
 
 # Load CSV
 df = pd.read_csv(csv_path)
@@ -17,12 +17,12 @@ def normalize(text):
         return ""
     return unicodedata.normalize('NFKC', text.strip())
 
-# Hitung jumlah baris CSV
+
 total_csv_rows = len(df)
 
 row_index = 0
 
-# Loop semua file JSON
+
 for i in range(1, 115):
     filename = f"{i}.json"
     json_path = os.path.join(json_folder, filename)

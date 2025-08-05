@@ -1,0 +1,72 @@
+{
+  "nomor": 95,
+  "nama": "التّين",
+  "namaLatin": "At-Tīn",
+  "jumlahAyat": 8,
+  "tempatTurun": "Makkiyah",
+  "arti": "Buah Tin",
+  "deskripsi": "Surat ini terdiri atas 8 ayat, termasuk golongan surat-surat Makkiyah, diturunkan sesudah surat Al Buruuj. Nama At Tiin diambil dari kata <i>At Tiin</i> yang terdapat pada ayat pertama surat ini yang artinya buah Tin.",
+  "ayat": [
+    {
+      "nomorAyat": 1,
+      "teksArab": "وَالتِّيْنِ وَالزَّيْتُوْنِۙ",
+      "teksLatin": "wat-tīni waz-zaitūn(i).",
+      "teksIndonesia": "Demi (buah) tin dan (buah) zaitun,"
+    },
+    {
+      "nomorAyat": 2,
+      "teksArab": "وَطُوْرِ سِيْنِيْنَۙ",
+      "teksLatin": "wa ṭūri sīnīn(a).",
+      "teksIndonesia": "demi gunung Sinai,"
+    },
+    {
+      "nomorAyat": 3,
+      "teksArab": "وَهٰذَا الْبَلَدِ الْاَمِيْنِۙ",
+      "teksLatin": "wa hāżal-baladil-amīn(i).",
+      "teksIndonesia": "dan demi negeri (Makkah) yang aman ini,"
+    },
+    {
+      "nomorAyat": 4,
+      "teksArab": "لَقَدْ خَلَقْنَا الْاِنْسَانَ فِيْٓ اَحْسَنِ تَقْوِيْمٍۖ",
+      "teksLatin": "laqad khalaqnal-insāna fī aḥsani taqwīm(in).",
+      "teksIndonesia": "sungguh, Kami benar-benar telah menciptakan manusia dalam bentuk yang sebaik-baiknya."
+    },
+    {
+      "nomorAyat": 5,
+      "teksArab": "ثُمَّ رَدَدْنٰهُ اَسْفَلَ سٰفِلِيْنَۙ",
+      "teksLatin": "Ṡumma radadnāhu asfala sāfilīn(a).",
+      "teksIndonesia": "Kemudian, kami kembalikan dia ke tempat yang serendah-rendahnya,"
+    },
+    {
+      "nomorAyat": 6,
+      "teksArab": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ فَلَهُمْ اَجْرٌ غَيْرُ مَمْنُوْنٍۗ",
+      "teksLatin": "illal-lażīna āmanū wa ‘amiluṣ-ṣāliḥāti falahum ajrun gairu mamnūn(in).",
+      "teksIndonesia": "kecuali orang-orang yang beriman dan mengerjakan kebajikan. Maka, mereka akan mendapat pahala yang tidak putus-putusnya."
+    },
+    {
+      "nomorAyat": 7,
+      "teksArab": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّيْنِۗ",
+      "teksLatin": "famā yukażżibuka ba‘du bid-dīn(i).",
+      "teksIndonesia": "Maka, apa alasanmu (wahai orang kafir) mendustakan hari Pembalasan setelah (adanya bukti-bukti) itu?"
+    },
+    {
+      "nomorAyat": 8,
+      "teksArab": "اَلَيْسَ اللّٰهُ بِاَحْكَمِ الْحٰكِمِيْنَ ࣖ",
+      "teksLatin": "alaisallāhu bi'aḥkamil-ḥākimīn(a).",
+      "teksIndonesia": "Bukankah Allah hakim yang paling adil?"
+    }
+  ],
+  "suratSelanjutnya": {
+    "nomor": 96,
+    "nama": "العلق",
+    "namaLatin": "Al-'Alaq",
+    "jumlahAyat": 19
+  },
+  "suratSebelumnya": {
+    "nomor": 94,
+    "nama": "الشرح",
+    "namaLatin": "Asy-Syarh",
+    "jumlahAyat": 8
+  },
+  "namaLatinSearch": "At-Tin"
+}

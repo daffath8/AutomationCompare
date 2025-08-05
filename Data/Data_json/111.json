@@ -1,0 +1,54 @@
+{
+  "nomor": 111,
+  "nama": "اللّهب",
+  "namaLatin": "Al-Lahab",
+  "jumlahAyat": 5,
+  "tempatTurun": "Makkiyah",
+  "arti": "Gejolak Api",
+  "deskripsi": "Surat ini terdiri atas 5 ayat, termasuk golongan surat-surat Makkiyyah,  diturunkan sesudah surat Al Fath. Nama <i>Al Lahab</i> diambil dari kata  <i>Al Lahab</i> yang terdapat pada ayat ketiga surat ini yang artinya gejolak  api. Surat ini juga dinamakan surat <i>Al Masad</i>.",
+  "ayat": [
+    {
+      "nomorAyat": 1,
+      "teksArab": "تَبَّتْ يَدَآ اَبِيْ لَهَبٍ وَّتَبَّۗ",
+      "teksLatin": "tabbat yadā abī lahabiw wa tabb(a).",
+      "teksIndonesia": "Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia."
+    },
+    {
+      "nomorAyat": 2,
+      "teksArab": "مَآ اَغْنٰى عَنْهُ مَالُهٗ وَمَا كَسَبَۗ",
+      "teksLatin": "mā agnā ‘anhu māluhū wa mā kasab(a).",
+      "teksIndonesia": "Tidaklah berguna baginya hartanya dan apa yang dia usahakan."
+    },
+    {
+      "nomorAyat": 3,
+      "teksArab": "سَيَصْلٰى نَارًا ذَاتَ لَهَبٍۙ",
+      "teksLatin": "sayaṣlā nāran żāta lahab(in).",
+      "teksIndonesia": "Kelak dia akan memasuki api yang bergejolak (neraka),"
+    },
+    {
+      "nomorAyat": 4,
+      "teksArab": "وَّامْرَاَتُهٗ ۗحَمَّالَةَ الْحَطَبِۚ",
+      "teksLatin": "wamra'atuh(ū), ḥammālatal-ḥaṭab(i).",
+      "teksIndonesia": "(begitu pula) istrinya, pembawa kayu bakar (penyebar fitnah). "
+    },
+    {
+      "nomorAyat": 5,
+      "teksArab": "فِيْ جِيْدِهَا حَبْلٌ مِّنْ مَّسَدٍ ࣖ",
+      "teksLatin": "fī jīdihā ḥablum mim masad(in).",
+      "teksIndonesia": "Di lehernya ada tali dari sabut yang dipintal."
+    }
+  ],
+  "suratSelanjutnya": {
+    "nomor": 112,
+    "nama": "الاخلاص",
+    "namaLatin": "Al-Ikhlas",
+    "jumlahAyat": 4
+  },
+  "suratSebelumnya": {
+    "nomor": 110,
+    "nama": "النصر",
+    "namaLatin": "An-Nasr",
+    "jumlahAyat": 3
+  },
+  "namaLatinSearch": "Al-Lahab"
+}
